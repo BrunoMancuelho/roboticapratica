@@ -1,6 +1,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/BrunoMancuelho/roboticapratica)
 ![GitHub License](https://img.shields.io/github/license/BrunoMancuelho/roboticapratica)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/joseassis?style=social&label=Seguir)
+![GitHub language count](https://img.shields.io/github/languages/count/BrunoMancuelho/roboticapratica)
+![GitHub top language](https://img.shields.io/github/languages/top/BrunoMancuelho/roboticapratica)
 # Robótica Prática
 ## Projeto do site roboticapratica.com.br
 Aprenda robótica.
